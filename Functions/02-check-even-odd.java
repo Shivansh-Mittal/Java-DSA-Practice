@@ -1,7 +1,7 @@
 import java.util.*;
+
 class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("\n Hello, World! \n"); 
+    public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in);
         int num;
         System.out.println("Enter the number: ");
@@ -17,6 +17,7 @@ class HelloWorld {
         // else{
         //     res = "odd";
         // }
+        System.out.println((num%2==0)?"Even":"Odd");
         return (n%2==0)? 'even': 'odd';
     }
 }

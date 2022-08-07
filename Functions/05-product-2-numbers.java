@@ -1,6 +1,16 @@
 import java.util.*;
-class main {
-    public static void main(String[] args){
-        Scanner in = new Scanner(System.in);
-    }
+
+class HelloWorld {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int a, b;
+    System.out.println("Enter the Numbers: ");
+    a = sc.nextInt();
+    b = sc.nextInt();
+    System.out.println(product(a,b));
+  }
+  
+  static int product(int x, int y){
+    return x*y;
+  }
 }
