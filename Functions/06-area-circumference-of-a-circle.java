@@ -1,6 +1,6 @@
 import java.util.*;
 
-class HelloWorld {
+class AreaCircumference {
    public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     double r;

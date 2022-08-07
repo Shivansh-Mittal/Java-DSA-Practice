@@ -1,5 +1,6 @@
 import java.util.*;
-class HelloWorld {
+
+class Sum2Numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a,b;

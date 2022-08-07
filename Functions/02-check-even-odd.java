@@ -1,6 +1,6 @@
 import java.util.*;
 
-class HelloWorld {
+class CheckEvenOdd {
     public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in);
         int num;
@@ -17,7 +17,7 @@ class HelloWorld {
         // else{
         //     res = "odd";
         // }
-        System.out.println((num%2==0)?"Even":"Odd");
-        return (n%2==0)? 'even': 'odd';
+        System.out.println((n%2==0)?"Even":"Odd");
+        return (n%2==0)? "even": "odd";
     }
 }
