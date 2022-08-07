@@ -10,13 +10,13 @@ class HelloWorld {
     }
     
     static String checkEven(int n){
-        String res = "";
-        if(n%2==0){
-            res = "even";
-        }
-        else{
-            res = "odd";
-        }
-        return res;
+        // String res = "";
+        // if(n%2==0){
+        //     res = "even";
+        // }
+        // else{
+        //     res = "odd";
+        // }
+        return (n%2==0)? 'even': 'odd';
     }
 }

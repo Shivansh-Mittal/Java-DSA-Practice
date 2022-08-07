@@ -12,7 +12,7 @@ class HelloWorld {
     }
     
     static int sum(int x, int y){
-        int res = x+y;
-        return res;
+        // int res = x+y;
+        return x+y;
     }
 }
