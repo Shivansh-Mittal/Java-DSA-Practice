@@ -1,4 +1,3 @@
-package BinarySearch;
 public class smallestletter {
     // leetcode - 744
     public static void main(String[] args) {
