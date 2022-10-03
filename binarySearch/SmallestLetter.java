@@ -1,4 +1,5 @@
-public class smallestletter {
+package binarySearch;
+public class SmallestLetter {
     // leetcode - 744
     public static void main(String[] args) {
         char[] letters = {'c', 'f', 'j'};
