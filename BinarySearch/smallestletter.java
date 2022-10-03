@@ -4,11 +4,11 @@ public class smallestletter {
     public static void main(String[] args) {
         char[] letters = {'c', 'f', 'j'};
         char target = 'f';
-        char ans = smallestletter(letters, target);
+        char ans = smallestlettr(letters, target);
         System.out.println(ans);
     }
 
-    static char smallestletter(char[] letters, char target){
+    static char smallestlettr(char[] letters, char target){
         
         int start = 0;
         int end = letters.length - 1;

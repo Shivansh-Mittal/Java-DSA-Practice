@@ -1,5 +1,4 @@
 // question - https://leetcode.com/problems/build-array-from-permutation/
-import java.util.*;
 
 class Solution {
     public int[] buildArray(int[] nums) {

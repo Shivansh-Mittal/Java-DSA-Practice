@@ -1,5 +1,4 @@
 // question - https://leetcode.com/problems/richest-customer-wealth/
-import java.util.*;
 
 class Solution {
     public int maximumWealth(int[][] accounts) {

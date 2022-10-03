@@ -1,5 +1,4 @@
 // question - https://leetcode.com/problems/running-sum-of-1d-array/
-import java.util.*;
 
 class Solution {
     public int[] runningSum(int[] nums) {
