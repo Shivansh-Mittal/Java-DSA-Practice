@@ -7,6 +7,7 @@ class CheckPrime {
     System.out.println("Enter the number: ");
     num = sc.nextInt();
     System.out.println(checkPrime(num)?"Prime number":"Not prime number");
+    sc.close();
   }
   
   static boolean checkPrime(int n){

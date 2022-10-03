@@ -8,6 +8,7 @@ class Product2Numbers {
     a = sc.nextInt();
     b = sc.nextInt();
     System.out.println(product(a,b));
+    sc.close();
   }
   
   static int product(int x, int y){

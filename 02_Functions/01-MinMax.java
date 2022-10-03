@@ -10,6 +10,7 @@ class MinMax {
         c = sc.nextInt();
         System.out.println("Maximum of "+a+", "+b+", "+c+" is "+max(a,b,c));
         System.out.println("\n Minimum of "+a+", "+b+", "+c+" is "+min(a,b,c));
+        sc.close();
     }
     
     static int max(int x, int y, int z){

@@ -7,6 +7,7 @@ class AreaCircumference {
     System.out.println("Enter the radius: ");
     r = sc.nextDouble();
     area(r);
+    sc.close();
   }
   
   static void area(double x){

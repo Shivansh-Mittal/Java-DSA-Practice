@@ -7,6 +7,7 @@ class CheckEvenOdd {
         System.out.println("Enter the number: ");
         num = sc.nextInt();
         System.out.println(num + " is " + checkEven(num));
+        sc.close();
     }
     
     static String checkEven(int n){

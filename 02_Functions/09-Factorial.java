@@ -7,6 +7,7 @@ class Factorial {
     System.out.println("Enter the number: ");
     num = sc.nextLong();
     factorial(num);
+    sc.close();
   }
   
   static void factorial(long n){

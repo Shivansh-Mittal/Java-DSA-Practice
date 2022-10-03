@@ -8,6 +8,7 @@ class VotingEligibility {
         num = sc.nextInt();
         checkEligible(num);
         // System.out.println("You are "+voting(num)+" to vote.");
+        sc.close();
     }
     
     static void checkEligible(int age){

@@ -7,6 +7,7 @@ class MarkToGrade {
     System.out.println("Enter the Marks: ");
     num = sc.nextInt();
     displayGrades(num);
+    sc.close();
   }
   
   static void displayGrades(int marks){
