@@ -1,4 +1,5 @@
 package binarysearch;
+// leetcode - https://leetcode.com/problems/sqrtx/
 public class Sqrtx {
     public static void main(String[] args) {
         int num = 9778;

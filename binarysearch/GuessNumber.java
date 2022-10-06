@@ -1,5 +1,4 @@
 package binarysearch;
-
 // leetcode - https://leetcode.com/problems/guess-number-higher-or-lower/
 public class GuessNumber {
     public static void main(String[] args) {

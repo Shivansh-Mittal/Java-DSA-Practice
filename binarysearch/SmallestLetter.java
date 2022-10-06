@@ -1,6 +1,6 @@
 package binarysearch;
+//leetcode - https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 public class SmallestLetter {
-    // leetcode - 744
     public static void main(String[] args) {
         char[] letters = {'c', 'f', 'j'};
         char target = 'f';
