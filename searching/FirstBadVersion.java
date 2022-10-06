@@ -1,4 +1,4 @@
-package binarysearch;
+package searching;
 // leetcode - https://leetcode.com/problems/first-bad-version/
 public class FirstBadVersion {
     public static void main(String[] args) {

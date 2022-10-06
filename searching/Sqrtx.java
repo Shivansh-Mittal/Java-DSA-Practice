@@ -1,4 +1,4 @@
-package binarysearch;
+package searching;
 // leetcode - https://leetcode.com/problems/sqrtx/
 public class Sqrtx {
     public static void main(String[] args) {

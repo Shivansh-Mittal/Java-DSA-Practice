@@ -1,4 +1,4 @@
-package binarysearch;
+package searching;
 // leetcode - https://leetcode.com/problems/valid-perfect-square/
 public class ValidPerfectSquare {
     public static void main(String[] args) {
