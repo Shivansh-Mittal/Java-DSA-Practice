@@ -7,7 +7,7 @@ public class SentenceIsPangram {
     }
 
     static boolean checkIfPangram(String sentence) {
-        int size  = (sentence.toCharArray()).length;
+        // int size  = (sentence.toCharArray()).length;
         if((sentence.toCharArray()).length < 26)
             return false;
         for(char c='a'; c<='z'; c++){

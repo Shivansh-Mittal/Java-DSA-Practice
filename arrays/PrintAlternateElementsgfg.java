@@ -1,5 +1,5 @@
 package arrays;
-// question link : https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&difficulty[]=-2&category[]=Arrays&sortBy=submissions
+// question link : https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/
 
 public class PrintAlternateElementsgfg{
     public static void main(String[] args) {
