@@ -1,6 +1,6 @@
 package arrays;
 // leetcode - https://leetcode.com/problems/check-if-the-sentence-is-pangram/
-public class SentenceIsPangram {
+public class SentenceIsPangramleetcode {
     public static void main(String[] args) {
         String sentence = "thequickbrownfoxjumpsoverthelazydog";
         System.out.println(checkIfPangram(sentence));

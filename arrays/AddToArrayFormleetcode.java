@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.*;
-import java.util.ArrayList;
+// import java.util.ArrayList;
 
 public class AddToArrayFormleetcode {
     public static void main(String[] args) {

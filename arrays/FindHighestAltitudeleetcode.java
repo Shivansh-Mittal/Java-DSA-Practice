@@ -1,6 +1,6 @@
 package arrays;
 // leetcode - https://leetcode.com/problems/find-the-highest-altitude/
-public class FindHighestAltitude {
+public class FindHighestAltitudeleetcode {
     public static void main(String[] args) {
         int[] arr = {-4,-3,-2,-1,4,3,2};
         System.out.println(largestAltitude(arr));
