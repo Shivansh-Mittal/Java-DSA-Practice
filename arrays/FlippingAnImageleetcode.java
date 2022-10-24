@@ -1,10 +1,16 @@
 package arrays;
 
+import java.util.Arrays;
+
 // leetcode - https://leetcode.com/problems/flipping-an-image/
 
 public class FlippingAnImageleetcode {
     public static void main(String[] args) {
-        
+        int[][] image = {{1,1,0,0},
+                         {1,0,0,1},
+                         {0,1,1,1},
+                         {1,0,1,0}};
+        System.out.println(Arrays.deepToString(flipAndInvertImage(image)));
     }
 
     static int[][] flipAndInvertImage(int[][] image) {
