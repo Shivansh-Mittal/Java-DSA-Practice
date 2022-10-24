@@ -3,13 +3,12 @@ import java.util.*;
 // leetcode - https://leetcode.com/problems/count-items-matching-a-rule/
 public class CountItemsMatchingRuleleetcode {
     public static void main(String[] args) {
-        List<List<String>> items = new ArrayList<>();
-        String[][] item = { {"phone","blue","pixel"},
-                            {"computer","silver","phone"},
-                            {"phone","gold","iphone"}};
-        for(String[] s: item){
+        List<List<String>> items = Arrays.asList(Arrays.asList("phone","blue","pixel"), 
+                                                 Arrays.asList("computer","silver","lenovo"), 
+                                                 Arrays.asList("phone","gold","iphone"));
+        // for(String[] s: item){
             // items.add(s);
-        }
+        // }
         String ruleKey = "type"; 
         String ruleValue = "phone";
         System.out.println(countMatches(items, ruleKey, ruleValue));        
