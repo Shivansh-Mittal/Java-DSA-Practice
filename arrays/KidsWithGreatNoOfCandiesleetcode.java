@@ -6,7 +6,9 @@ import java.util.*;
 
 public class KidsWithGreatNoOfCandiesleetcode {
     public static void main(String[] args) {
-        
+        int[] candies = {4,2,1,1,2};
+        int extraCandies = 1;
+        System.out.println(kidsWithCandies(candies, extraCandies).toString());
     }
 
     static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
