@@ -4,7 +4,8 @@ package arrays;
 
 public class FindNoWithEvenDigitsleetcode {
     public static void main(String[] args) {
-        
+        int[] nums = {555,901,482,1771};
+        System.out.println(findNumbers(nums));
     }
 
     static int findNumbers(int[] nums) {

@@ -14,7 +14,7 @@
 11. [Count Items Matching a Rule](./CountItemsMatchingRuleleetcode.java)
 12. [Find the Highest Altitude](./FindHighestAltitudeleetcode.java)
 13. [Flipping an Image](./FlippingAnImageleetcode.java)
-14. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+14. [Cells with Odd Values in a Matrix](./CellsWithOddValuesleetcode.java)
 15. [Matrix Diagonal Sum](./MatrixDiagonalSumleetcode.java)
 16. [Find Numbers with Even Number of Digits](./FindNoWithEvenDigitsleetcode.java)
 17. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)

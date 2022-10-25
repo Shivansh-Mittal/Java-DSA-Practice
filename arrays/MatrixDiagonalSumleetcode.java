@@ -4,7 +4,11 @@ package arrays;
 
 public class MatrixDiagonalSumleetcode {
     public static void main(String[] args) {
-        
+        int[][] mat = {{1,1,1,1},
+                       {1,1,1,1},
+                       {1,1,1,1},
+                       {1,1,1,1}};
+        System.out.println(diagonalSum(mat));
     }
 
     static int diagonalSum(int[][] mat) {

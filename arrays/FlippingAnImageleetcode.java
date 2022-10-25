@@ -1,5 +1,4 @@
 package arrays;
-
 import java.util.Arrays;
 
 // leetcode - https://leetcode.com/problems/flipping-an-image/

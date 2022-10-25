@@ -1,6 +1,7 @@
 package arrays;
 import java.util.*;
 // leetcode - https://leetcode.com/problems/count-items-matching-a-rule/
+
 public class CountItemsMatchingRuleleetcode {
     public static void main(String[] args) {
         List<List<String>> items = Arrays.asList(Arrays.asList("phone","blue","pixel"), 
