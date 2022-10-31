@@ -9,14 +9,14 @@ public class AddToArrayFormleetcode {
     public static void main(String[] args) {
         int[] num = {9,9,9,9,9,9,9,9,9,9};
         int k = 1;
-        ArrayList<Integer> res = new ArrayList<Integer>();
+        List<Integer> res = new ArrayList<Integer>();
         res = addToArrayForm(num, k);
         // String s = res.;
         System.out.println(res.toString());
     }
 
     static List<Integer> addToArrayForm(int[] num, int k){
-        ArrayList<Integer> arr = new ArrayList<Integer>();
+        List<Integer> arr = new ArrayList<Integer>();
         // String a = "";
         int b = 0;
         for(int i: num){
