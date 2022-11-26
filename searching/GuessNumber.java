@@ -20,7 +20,8 @@ public class GuessNumber {
 
         while(start <= end){
             long mid = start + (end-start)/2;
-            int res = guess((int)mid);
+            // int res = guess((int)mid);
+            int res = 0;
 
             if(res == 0)
                 return (int)mid;
