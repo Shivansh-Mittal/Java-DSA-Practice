@@ -11,7 +11,7 @@ public class FinalKeyword {
         obj1.show();
         Panda obj2 = new Panda();
         obj2.show();
-
+        sc.close();
     }
 }
 

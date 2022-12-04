@@ -1,3 +1,5 @@
+package javaCore;
+
 import java.lang.Exception;
 
 class Counter{
